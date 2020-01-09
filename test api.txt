@@ -1,0 +1,38 @@
+http://localhost:2222/api/login/authenticate
+{
+  "Email": "admin@adm.com",
+  "Password": 123456
+}
+
+------------------------------------------------
+
+http://localhost:2222/api/user/GetAll
+
+-----------------------------------------------
+
+http://localhost:2222/api/user/create
+{
+  "Email": "hola@prueba.com",
+  "Password": 4321
+}
+
+-----------------------------------------------
+
+http://localhost:2222/api/user/update
+{
+  "id": 2,
+  "Email": "hola@prueba.com",
+  "Password": 4321,
+  "Country": "España"
+}
+
+-----------------------------------------------
+
+http://localhost:2222/api/user/delete
+{
+  "id": 1,
+  "Email": "hola@prueba.com",
+  "Password": 4321,
+  "Country": "España"
+}
+
