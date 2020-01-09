@@ -1,0 +1,130 @@
+﻿<html lang="en">
+<head>
+    <title>Demo</title>
+</head>
+<body>
+    <div id="app">
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <script>
+        var myVM = new Vue({
+            el: "#app",
+            data: {
+                editUser: null,
+                users: [],
+                objlogin: {
+                    email: "",
+                    clave: "",
+                },
+                token: "",
+            },
+
+            methods: {
+                login() {
+                    fetch("http://localhost:2222/api/login/authenticate", {
+                        body: JSON.stringify(this.login),
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                        },
+                    })
+                        .then(response => response.json())
+                        .then((data) => {
+                            this.token = data;
+                        })
+                },
+
+                createUser(user) {
+                    fetch("http://localhost:2222/api/user/create", {
+                        body: JSON.stringify(user),
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                            "Authorization": "Bearer " + this.token,
+                        },
+                    })
+                        .then(() => {
+                            this.editUser = null;
+                        })
+                },
+
+                deleteUser(user) {
+                    fetch("http://localhost:2222/api/user/delete", {
+                        body: JSON.stringify(user),
+                        method: "DELETE",
+                        headers: {
+                            "Content-Type": "application/json",
+                            "Authorization": "Bearer " + this.token,
+                        },
+                    })
+                        .then(() => {
+                            this.users.splice(i, 1);
+                        })
+                },
+
+                updateUser(user) {
+                    fetch("http://localhost:2222/api/user/update", {
+                        body: JSON.stringify(user),
+                        method: "POST",
+                        headers: {
+                            "content-type": "application/json",
+                            "Authorization": "Bearer " + this.token,
+                        },
+                    })
+                        .then(() => {
+                            this.editUser = null;
+                        })
+                }
+            },
+
+            mounted() {
+                fetch("http://localhost:2222/api/user/GetAll")
+                    .then(response => response.json())
+                    .then((data) => {
+                        this.users = data;
+                    })
+            },
+
+            template: `
+                <div>
+                    <div>
+                        <div>
+                              Email <input v-model="objlogin.email" type="text" />
+                        </div>
+                        <div>
+                              Clave <input v-model="objlogin.clave" type="password"  />
+                        </div>
+                        <div>
+                              <button v-on:click="login()">Login</button>
+                        </div>
+                        <div>
+                              Token <input v-model="token" type="Text"  />
+                        </div>
+                    </div>
+
+                    </br>
+
+                    <div>
+                      <li v-for="user, i in users">
+                        <div v-if="editUser === user.Id">
+                          <input v-model="user.Email" />
+                          <input v-model="user.Password" />
+                          <input v-model="user.Country" />
+                          <button v-on:click="updateUser(user)">Grabar</button>
+                        </div>
+                        <div v-else>
+                          <button v-on:click="editUser = user.Id">Editar</button>
+                          <button v-on:click="deleteUser(user.Id, i)">Eliminar</button>
+                          {{user.Email}}
+                        </div>
+                      </li>
+                    </div>
+                </div>
+            `,
+        });
+
+    </script>
+</body>
+</html>
