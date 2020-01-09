@@ -1,0 +1,369 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2018-10-19 19:46:35
+LastUsageStatisticCall<|||>1<|||>2018-10-13 14:27:13
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>1360
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>1360
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>166,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Triar
+LastActiveSession<|||>1<|||>Triar
+GridExportEncoding<|||>3<|||>0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,161,156,90,60,65,50,119,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>431,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>10,265,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+MainWinMaximized<|||>3<|||>1
+querymemoheight<|||>3<|||>311
+FileDialogEncoding_MainForm<|||>3<|||>0
+MainWinLeft<|||>3<|||>497
+MainWinTop<|||>3<|||>0
+MainWinWidth<|||>3<|||>840
+MainWinHeight<|||>3<|||>735
+DateTimeEditor_CursorPos_Type4<|||>3<|||>11
+sqloutheight<|||>3<|||>70
+dbtreewidth<|||>3<|||>320
+queryhelperswidth<|||>3<|||>44
+SQLFile0<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\TriarEIRL\ER\SQL_INICIAL_MYSQL.sql
+SQLFile1<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\CloudMarket - ProductosMoretti\ER\SQL_INICIAL_MYSQL.sql
+SQLFile2<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\CloudMarket - IndustriasGrupp\ER\SQL_INICIAL_MYSQL.sql
+SQLFile3<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\BashirSAC\ER\SQL_INICIAL_MYSQL.sql
+SQLFile4<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\CloudMarket - Libreria VictoriaOLD\ER\SQL_INICIAL.sql
+SQLFile5<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\CloudMarket - Libreria Victoria\ER\SQL_INICIAL.sql
+SQLFile6<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\CloudMarket - Libreria Victoria\ER\SQL_INICIAL_MYSQL.sql
+SQLFile7<|||>1<|||>D:\Mauricio\Proyectos\Silverlight\CloudMarket - ProductosMoretti\ER\REPETIDOS.sql
+SQLFile8<|||>1<|||>C:\Users\MAURICIO\Dropbox\Industrias Grupp EIRL\CAMPAÑA ESCOLAR\SQL\SQL ESTADISTICA CLUDMARKET.sql
+SQLFile9<|||>1<|||>C:\Users\MAURICIO\Dropbox\Industrias Grupp EIRL\SQL para sacar ventas por dia de todo el año separadas por sucursal.sql
+Servers\BashirSAC\SessionCreated<|||>1<|||>2018-08-16 21:02:24
+Servers\BashirSAC\Host<|||>1<|||>dbcontrolmant.db.11978601.6ee.hostedresource.net
+Servers\BashirSAC\WindowsAuth<|||>3<|||>0
+Servers\BashirSAC\User<|||>1<|||>dbcontrolmant
+Servers\BashirSAC\Password<|||>1<|||>60377E384669397C3A6
+Servers\BashirSAC\LoginPrompt<|||>3<|||>0
+Servers\BashirSAC\Port<|||>1<|||>3306
+Servers\BashirSAC\NetType<|||>3<|||>0
+Servers\BashirSAC\Compressed<|||>3<|||>0
+Servers\BashirSAC\LocalTimeZone<|||>3<|||>0
+Servers\BashirSAC\QueryTimeout<|||>3<|||>0
+Servers\BashirSAC\KeepAlive<|||>3<|||>0
+Servers\BashirSAC\FullTableStatus<|||>3<|||>1
+Servers\BashirSAC\Databases<|||>1<|||>
+Servers\BashirSAC\Comment<|||>1<|||>
+Servers\BashirSAC\StartupScriptFilename<|||>1<|||>
+Servers\BashirSAC\TreeBackground<|||>3<|||>536870911
+Servers\BashirSAC\SSHtunnelHost<|||>1<|||>
+Servers\BashirSAC\SSHtunnelHostPort<|||>3<|||>0
+Servers\BashirSAC\SSHtunnelUser<|||>1<|||>
+Servers\BashirSAC\SSHtunnelPassword<|||>1<|||>8
+Servers\BashirSAC\SSHtunnelTimeout<|||>3<|||>4
+Servers\BashirSAC\SSHtunnelPrivateKey<|||>1<|||>
+Servers\BashirSAC\SSHtunnelPort<|||>3<|||>3307
+Servers\BashirSAC\SSL_Active<|||>3<|||>0
+Servers\BashirSAC\SSL_Key<|||>1<|||>
+Servers\BashirSAC\SSL_Cert<|||>1<|||>
+Servers\BashirSAC\SSL_CA<|||>1<|||>
+Servers\BashirSAC\SSL_Cipher<|||>1<|||>
+Servers\BashirSAC\ServerVersionFull<|||>1<|||>5.5.51-38.1-log - Percona Server (GPL), Release rel30.2, Revision 39.1
+Servers\BashirSAC\ConnectCount<|||>3<|||>12
+Servers\BashirSAC\ServerVersion<|||>3<|||>50551
+Servers\BashirSAC\LastConnect<|||>1<|||>2018-09-17 18:50:14
+Servers\BashirSAC\FavoriteObjects<|||>1<|||>information_schema||CHARACTER_SETS<{{{><}}}>
+Servers\BashirSAC\lastUsedDB<|||>1<|||>dbcontrolmant
+Servers\BashirSAC\RefusedCount<|||>3<|||>1
+Servers\BashirSAC\QueryHistory\6<|||>1<|||>2018-08-22 08:32:38|dbcontrolmant|609|CREATE TABLE HOJATRABAJO<{{{><}}}>(<{{{><}}}>	IDHOJATRABAJO  int auto_increment  NOT NULL ,<{{{><}}}>	IDUNIDAD  int  NOT NULL ,<{{{><}}}>	FECHA datetime NOT NULL ,<{{{><}}}>	TIPO  varchar(10)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDHOJATRABAJO)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE HOJATRABAJO<{{{><}}}>	ADD  FOREIGN KEY (IDUNIDAD) REFERENCES UNIDAD(IDUNIDAD)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\BashirSAC\QueryHistory\7<|||>1<|||>2018-08-22 08:38:02|dbcontrolmant|828|CREATE TABLE HOJATRABAJODET<{{{><}}}>(<{{{><}}}>	IDHOJATRABAJODET  int auto_increment  NOT NULL ,<{{{><}}}>	IDHOJATRABAJO  int  NOT NULL ,<{{{><}}}>	FECHA datetime NOT NULL ,<{{{><}}}>	IDACTIVIDAD  int  NOT NULL ,<{{{><}}}>	DESCRIPCION  varchar(250)  NULL ,<{{{><}}}>	OBSERVACION varchar(250) NULL ,<{{{><}}}>	ESTADO varchar(10) NOT NULL ,<{{{><}}}>	MOTIVOPENDIENTE  varchar(250)  NULL ,<{{{><}}}>	PRIMARY KEY (IDHOJATRABAJODET)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE HOJATRABAJODET<{{{><}}}>	ADD  FOREIGN KEY (IDHOJATRABAJO) REFERENCES HOJATRABAJO(IDHOJATRABAJO)<{{{><}}}>		ON DELETE CASCADE<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE HOJATRABAJODET<{{{><}}}>	ADD  FOREIGN KEY (IDACTIVIDAD) REFERENCES ACTIVIDAD(IDACTIVIDAD)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\BashirSAC\QueryHistory\8<|||>1<|||>2018-08-29 11:49:45|dbcontrolmant|781|CREATE TABLE TRABAJADORACTIVIDAD<{{{><}}}>(<{{{><}}}>	IDTRABAJADORACTIVIDAD  int auto_increment  NOT NULL ,<{{{><}}}>	IDHOJATRABAJODET  int  NOT NULL ,<{{{><}}}>	IDTRABAJADOR  int  NOT NULL ,<{{{><}}}>	HORAINICIO varchar(15) NOT NULL,<{{{><}}}>	HORAFIN varchar(15) NOT NULL,<{{{><}}}>	TOTALHORAS decimal(5,2) NOT NULL ,<{{{><}}}>	PRIMARY KEY (IDTRABAJADORACTIVIDAD)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE TRABAJADORACTIVIDAD<{{{><}}}>	ADD  FOREIGN KEY (IDHOJATRABAJODET) REFERENCES HOJATRABAJODET(IDHOJATRABAJODET)<{{{><}}}>		ON DELETE CASCADE<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE TRABAJADORACTIVIDAD<{{{><}}}>	ADD  FOREIGN KEY (IDTRABAJADOR) REFERENCES TRABAJADOR(IDTRABAJADOR)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;
+Servers\BashirSAC\QueryHistory\9<|||>1<|||>2018-08-29 11:56:49|dbcontrolmant|453|CREATE TABLE UNIDADMEDIDA<{{{><}}}>(<{{{><}}}>	IDUNIDADMEDIDA  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREUNIDADMEDIDA  varchar(50)  NOT NULL ,<{{{><}}}>	ABRUNIDADMEDIDA  varchar(5)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDUNIDADMEDIDA)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE  UNIQUE INDEX UNQ_UNIDADMEDIDA ON UNIDADMEDIDA<{{{><}}}>(<{{{><}}}>	NOMBREUNIDADMEDIDA  ASC,<{{{><}}}>	ABRUNIDADMEDIDA  ASC<{{{><}}}>)<{{{><}}}>;
+Servers\BashirSAC\QueryHistory\10<|||>1<|||>2018-08-29 11:57:41|dbcontrolmant|359|CREATE TABLE FAMILIA1<{{{><}}}>(<{{{><}}}>	IDFAMILIA1  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREFAMILIA1  varchar(50)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDFAMILIA1)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBREFAMILIA1 ON FAMILIA1<{{{><}}}>(<{{{><}}}>	NOMBREFAMILIA1  ASC<{{{><}}}>)<{{{><}}}>;
+Servers\BashirSAC\QueryHistory\11<|||>1<|||>2018-08-29 11:57:51|dbcontrolmant|328|CREATE TABLE FAMILIA2<{{{><}}}>(<{{{><}}}>	IDFAMILIA2  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREFAMILIA2  varchar(50)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDFAMILIA2)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBREFAMILIA2 ON FAMILIA2<{{{><}}}>(<{{{><}}}>	NOMBREFAMILIA2  ASC<{{{><}}}>)<{{{><}}}>;
+Servers\BashirSAC\QueryHistory\12<|||>1<|||>2018-08-29 11:58:00|dbcontrolmant|391|CREATE TABLE FAMILIA3<{{{><}}}>(<{{{><}}}>	IDFAMILIA3  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREFAMILIA3  varchar(50)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDFAMILIA3)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBREFAMILIA3 ON FAMILIA3<{{{><}}}>(<{{{><}}}>	NOMBREFAMILIA3  ASC<{{{><}}}>)<{{{><}}}>;
+Servers\BashirSAC\QueryHistory\13<|||>1<|||>2018-08-29 12:43:47|dbcontrolmant|438|CREATE TABLE ALMACEN<{{{><}}}>(<{{{><}}}>	IDALMACEN  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREALMACEN  varchar(50)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDALMACEN)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBREALMACEN ON ALMACEN<{{{><}}}>(<{{{><}}}>	NOMBREALMACEN  ASC<{{{><}}}>)<{{{><}}}>;
+Servers\BashirSAC\QueryHistory\14<|||>1<|||>2018-09-03 20:36:21|dbcontrolmant|187|SELECT COUNT(*) FROM HOJATRABAJO LEFT JOIN UNIDAD ON HOJATRABAJO.IDUNIDAD=UNIDAD.IDUNIDAD LEFT JOIN FLOTA ON UNIDAD.IDFLOTA=FLOTA.IDFLOTA WHERE IDHOJATRABAJO!=0 AND HOJATRABAJO.TIPO IN ('CORRECTIVO',0)
+Servers\BashirSAC\QueryHistory\16<|||>1<|||>2018-09-03 20:36:50|dbcontrolmant|172|SELECT COUNT(*) FROM HOJATRABAJO LEFT JOIN UNIDAD ON HOJATRABAJO.IDUNIDAD=UNIDAD.IDUNIDAD LEFT JOIN FLOTA ON UNIDAD.IDFLOTA=FLOTA.IDFLOTA WHERE IDHOJATRABAJO!=0 <{{{><}}}>AND HOJATRABAJO.TIPO IN ('CORRECTIVO')
+Servers\BashirSAC\QueryHistory\15<|||>1<|||>2018-09-03 20:37:02|dbcontrolmant|203|SELECT COUNT(*) FROM HOJATRABAJO LEFT JOIN UNIDAD ON HOJATRABAJO.IDUNIDAD=UNIDAD.IDUNIDAD LEFT JOIN FLOTA ON UNIDAD.IDFLOTA=FLOTA.IDFLOTA WHERE IDHOJATRABAJO!=0 <{{{><}}}>AND HOJATRABAJO.TIPO IN ('CORRECTIVO',0)
+Servers\BashirSAC\QueryHistory\17<|||>1<|||>2018-09-03 20:38:14|dbcontrolmant|360|SELECT COUNT(*) FROM HOJATRABAJO LEFT JOIN UNIDAD ON HOJATRABAJO.IDUNIDAD=UNIDAD.IDUNIDAD LEFT JOIN FLOTA ON UNIDAD.IDFLOTA=FLOTA.IDFLOTA WHERE IDHOJATRABAJO!=0 <{{{><}}}>AND HOJATRABAJO.TIPO IN ('CORRECTIVO','0')
+Servers\BashirSAC\QueryHistory\18<|||>1<|||>2018-09-03 20:59:23|dbcontrolmant|203|SELECT * FROM TRABAJADORACTIVIDAD WHERE IDTRABAJADOR=1
+Servers\BashirSAC\QueryHistory\19<|||>1<|||>2018-09-03 20:59:33|dbcontrolmant|187|SELECT * FROM TRABAJADORACTIVIDAD WHERE IDTRABAJADOR=2
+Servers\BashirSAC\QueryHistory\20<|||>1<|||>2018-09-03 21:02:02|dbcontrolmant|188|SELECT * FROM TRABAJADORACTIVIDAD <{{{><}}}>LEFT JOIN HOJATRABAJODET ON TRABAJADORACTIVIDAD.IDHOJATRABAJODET=HOJATRABAJODET.IDHOJATRABAJODET<{{{><}}}>WHERE IDTRABAJADOR=1
+Servers\BashirSAC\QueryHistory\21<|||>1<|||>2018-09-03 21:02:32|dbcontrolmant|188|SELECT IDHOJATRABAJO FROM TRABAJADORACTIVIDAD <{{{><}}}>LEFT JOIN HOJATRABAJODET ON TRABAJADORACTIVIDAD.IDHOJATRABAJODET=HOJATRABAJODET.IDHOJATRABAJODET<{{{><}}}>WHERE IDTRABAJADOR=1
+Servers\BashirSAC\QueryHistory\22<|||>1<|||>2018-09-17 11:29:49|dbcontrolmant|234|UPDATE UNIDAD SET MODELO=MARCA
+Servers\BashirSAC\QueryHistory\1<|||>1<|||>2018-09-17 18:53:04|dbcontrolmant|548|CREATE TABLE FOTOACTIVIDAD<{{{><}}}>(<{{{><}}}>	IDFOTOACTIVIDAD  int auto_increment  NOT NULL ,<{{{><}}}>	IDHOJATRABAJODET  int  NOT NULL ,<{{{><}}}>	NOMBRE varchar(50) NOT NULL,<{{{><}}}>	TAMANO int NOT NULL,<{{{><}}}>	PRIMARY KEY (IDFOTOACTIVIDAD)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE FOTOACTIVIDAD<{{{><}}}>	ADD  FOREIGN KEY (IDHOJATRABAJODET) REFERENCES HOJATRABAJODET(IDHOJATRABAJODET)<{{{><}}}>		ON DELETE CASCADE<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\IndGrupp\SessionCreated<|||>1<|||>2018-07-17 07:58:58
+Servers\IndGrupp\Host<|||>1<|||>dbcmig.db.11978601.hostedresource.com
+Servers\IndGrupp\WindowsAuth<|||>3<|||>0
+Servers\IndGrupp\User<|||>1<|||>dbcmig
+Servers\IndGrupp\Password<|||>1<|||>6239803A486B3B7E3C8
+Servers\IndGrupp\LoginPrompt<|||>3<|||>0
+Servers\IndGrupp\Port<|||>1<|||>3306
+Servers\IndGrupp\NetType<|||>3<|||>0
+Servers\IndGrupp\Compressed<|||>3<|||>0
+Servers\IndGrupp\LocalTimeZone<|||>3<|||>0
+Servers\IndGrupp\QueryTimeout<|||>3<|||>0
+Servers\IndGrupp\KeepAlive<|||>3<|||>0
+Servers\IndGrupp\FullTableStatus<|||>3<|||>1
+Servers\IndGrupp\Databases<|||>1<|||>
+Servers\IndGrupp\Comment<|||>1<|||>
+Servers\IndGrupp\StartupScriptFilename<|||>1<|||>
+Servers\IndGrupp\TreeBackground<|||>3<|||>536870911
+Servers\IndGrupp\SSHtunnelHost<|||>1<|||>
+Servers\IndGrupp\SSHtunnelHostPort<|||>3<|||>0
+Servers\IndGrupp\SSHtunnelUser<|||>1<|||>
+Servers\IndGrupp\SSHtunnelPassword<|||>1<|||>3
+Servers\IndGrupp\SSHtunnelTimeout<|||>3<|||>4
+Servers\IndGrupp\SSHtunnelPrivateKey<|||>1<|||>
+Servers\IndGrupp\SSHtunnelPort<|||>3<|||>3307
+Servers\IndGrupp\SSL_Active<|||>3<|||>0
+Servers\IndGrupp\SSL_Key<|||>1<|||>
+Servers\IndGrupp\SSL_Cert<|||>1<|||>
+Servers\IndGrupp\SSL_CA<|||>1<|||>
+Servers\IndGrupp\SSL_Cipher<|||>1<|||>
+Servers\IndGrupp\ServerVersionFull<|||>1<|||>5.5.51-38.1-log - Percona Server (GPL), Release rel30.2, Revision 39.1
+Servers\IndGrupp\ConnectCount<|||>3<|||>19
+Servers\IndGrupp\ServerVersion<|||>3<|||>50551
+Servers\IndGrupp\LastConnect<|||>1<|||>2018-10-02 09:02:58
+Servers\IndGrupp\lastUsedDB<|||>1<|||>dbcmig
+Servers\IndGrupp\QueryHistory\47<|||>1<|||>2018-09-05 09:21:34|dbcmig|188|SELECT * FROM TRANSACCIONDET WHERE IDTRANSACCIONCAB=7181
+Servers\IndGrupp\QueryHistory\48<|||>1<|||>2018-09-11 09:50:02|dbcmig|453|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'BCSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\6<|||>1<|||>2018-09-11 09:50:42|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'BLSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\7<|||>1<|||>2018-09-11 09:51:18|dbcmig|406|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'FESC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\8<|||>1<|||>2018-09-11 09:51:56|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'CTSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\9<|||>1<|||>2018-09-11 09:52:28|dbcmig|343|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'CHSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\10<|||>1<|||>2018-09-11 09:53:01|dbcmig|406|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'MASC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\11<|||>1<|||>2018-09-11 09:53:52|dbcmig|281|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'BUSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\12<|||>1<|||>2018-09-11 09:54:25|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'BFSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\49<|||>1<|||>2018-09-11 09:55:03|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'CBSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\50<|||>1<|||>2018-09-11 09:55:27|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'CFSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\51<|||>1<|||>2018-09-11 09:55:56|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PBSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\52<|||>1<|||>2018-09-11 09:56:37|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PFSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\53<|||>1<|||>2018-09-11 09:57:11|dbcmig|422|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'POSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\54<|||>1<|||>2018-09-11 09:57:53|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PMSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\57<|||>1<|||>2018-09-11 09:59:21|dbcmig|297|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PLSO%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\46<|||>1<|||>2018-09-11 09:59:26|dbcmig|296|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PLSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\56<|||>1<|||>2018-09-11 09:59:33|dbcmig|422|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PASC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\55<|||>1<|||>2018-09-11 09:59:50|dbcmig|281|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'GCSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\58<|||>1<|||>2018-09-11 10:00:06|dbcmig|422|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'SOSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\59<|||>1<|||>2018-09-11 10:00:30|dbcmig|313|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PFCSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\60<|||>1<|||>2018-09-11 10:01:31|dbcmig|281|SELECT <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>SUM(TRANSACCIONDET.CANTIDAD) AS TOTAL<{{{><}}}>FROM TRANSACCIONDET<{{{><}}}>LEFT JOIN TRANSACCIONCAB ON TRANSACCIONDET.IDTRANSACCIONCAB=TRANSACCIONCAB.IDTRANSACCIONCAB<{{{><}}}>LEFT JOIN ARTICULO ON TRANSACCIONDET.IDARTICULO=ARTICULO.IDARTICULO<{{{><}}}>WHERE TRANSACCIONCAB.FECHAEMISION BETWEEN '2018-01-01' AND '2018-05-31' AND<{{{><}}}>ARTICULO.CODIGO LIKE 'PFSCSC%' AND<{{{><}}}>TRANSACCIONCAB.TIPOTRANSACCION = 'VENTA' AND<{{{><}}}>TRANSACCIONCAB.ESTADO = 'ACTIVO'<{{{><}}}>GROUP BY  <{{{><}}}>ARTICULO.CODIGO,<{{{><}}}>ARTICULO.NOMBRECORTO,<{{{><}}}>ARTICULO.IDFAMILIA3<{{{><}}}>ORDER BY ARTICULO.IDFAMILIA3
+Servers\IndGrupp\QueryHistory\61<|||>1<|||>2018-09-19 08:27:18|dbcmig|297|SELECT * FROM TRANSACCIONCAB WHERE NUMEROTRANSACCION LIKE '%409%'
+Servers\IndGrupp\QueryHistory\13<|||>1<|||>2018-09-25 08:58:30|dbcmig|297|SELECT * FROM ARTICULO WHERE NOMBRELARGO LIKE '%POLO M/C%'
+Servers\IndGrupp\QueryHistory\14<|||>1<|||>2018-09-25 08:59:26|dbcmig|188|SELECT * FROM TRANSACCIONCAB WHERE NUMEROTRANSACCION LIKE '%430%'
+Servers\IndGrupp\QueryHistory\16<|||>1<|||>2018-09-25 09:00:20|dbcmig|187|SELECT * FROM TRANSACCIONDET WHERE IDTRANSACCIONCAB=7302
+Servers\IndGrupp\QueryHistory\15<|||>1<|||>2018-10-01 10:38:28|dbcmig|172|select *	FROM TRANSACCIONCAB WHERE NUMEROTRANSACCION LIKE '%436%'
+Servers\IndGrupp\QueryHistory\1<|||>1<|||>2018-10-02 09:04:40|dbcmig|250|SELECT * FROM TRANSACCIONCAB WHERE NUMEROTRANSACCION LIKE '%440%';
+Servers\IndGrupp\QueryHistory\2<|||>1<|||>2018-10-02 09:06:27|dbcmig|188|SELECT * FROM TRANSACCIONDET WHERE IDTRANSACCIONCAB=7312
+Servers\JuegosDeportivos\SessionCreated<|||>1<|||>2018-07-10 12:02:28
+Servers\JuegosDeportivos\Host<|||>1<|||>dbregparri.db.11978601.hostedresource.com
+Servers\JuegosDeportivos\WindowsAuth<|||>3<|||>0
+Servers\JuegosDeportivos\User<|||>1<|||>dbregparri
+Servers\JuegosDeportivos\Password<|||>1<|||>5E357C364467377A384
+Servers\JuegosDeportivos\LoginPrompt<|||>3<|||>0
+Servers\JuegosDeportivos\Port<|||>1<|||>3306
+Servers\JuegosDeportivos\NetType<|||>3<|||>0
+Servers\JuegosDeportivos\Compressed<|||>3<|||>0
+Servers\JuegosDeportivos\LocalTimeZone<|||>3<|||>0
+Servers\JuegosDeportivos\QueryTimeout<|||>3<|||>0
+Servers\JuegosDeportivos\KeepAlive<|||>3<|||>0
+Servers\JuegosDeportivos\FullTableStatus<|||>3<|||>1
+Servers\JuegosDeportivos\Databases<|||>1<|||>
+Servers\JuegosDeportivos\Comment<|||>1<|||>
+Servers\JuegosDeportivos\StartupScriptFilename<|||>1<|||>
+Servers\JuegosDeportivos\TreeBackground<|||>3<|||>536870911
+Servers\JuegosDeportivos\SSHtunnelHost<|||>1<|||>
+Servers\JuegosDeportivos\SSHtunnelHostPort<|||>3<|||>0
+Servers\JuegosDeportivos\SSHtunnelUser<|||>1<|||>
+Servers\JuegosDeportivos\SSHtunnelPassword<|||>1<|||>6
+Servers\JuegosDeportivos\SSHtunnelTimeout<|||>3<|||>4
+Servers\JuegosDeportivos\SSHtunnelPrivateKey<|||>1<|||>
+Servers\JuegosDeportivos\SSHtunnelPort<|||>3<|||>3307
+Servers\JuegosDeportivos\SSL_Active<|||>3<|||>0
+Servers\JuegosDeportivos\SSL_Key<|||>1<|||>
+Servers\JuegosDeportivos\SSL_Cert<|||>1<|||>
+Servers\JuegosDeportivos\SSL_CA<|||>1<|||>
+Servers\JuegosDeportivos\SSL_Cipher<|||>1<|||>
+Servers\JuegosDeportivos\ServerVersionFull<|||>1<|||>5.5.51-38.1-log - Percona Server (GPL), Release rel30.2, Revision 39.1
+Servers\JuegosDeportivos\ConnectCount<|||>3<|||>2
+Servers\JuegosDeportivos\ServerVersion<|||>3<|||>50551
+Servers\JuegosDeportivos\LastConnect<|||>1<|||>2018-08-07 08:49:21
+Servers\JuegosDeportivos\lastUsedDB<|||>1<|||>dbregparri
+Servers\Moretti\SessionCreated<|||>1<|||>2018-07-06 16:29:55
+Servers\Moretti\Host<|||>1<|||>dbcmmoretti.db.11978601.632.hostedresource.net
+Servers\Moretti\WindowsAuth<|||>3<|||>0
+Servers\Moretti\User<|||>1<|||>dbcmmoretti
+Servers\Moretti\Password<|||>1<|||>547C746E806D49419
+Servers\Moretti\LoginPrompt<|||>3<|||>0
+Servers\Moretti\Port<|||>1<|||>3306
+Servers\Moretti\NetType<|||>3<|||>0
+Servers\Moretti\Compressed<|||>3<|||>0
+Servers\Moretti\LocalTimeZone<|||>3<|||>0
+Servers\Moretti\QueryTimeout<|||>3<|||>0
+Servers\Moretti\KeepAlive<|||>3<|||>0
+Servers\Moretti\FullTableStatus<|||>3<|||>1
+Servers\Moretti\Databases<|||>1<|||>
+Servers\Moretti\Comment<|||>1<|||>
+Servers\Moretti\StartupScriptFilename<|||>1<|||>
+Servers\Moretti\TreeBackground<|||>3<|||>536870911
+Servers\Moretti\SSHtunnelHost<|||>1<|||>
+Servers\Moretti\SSHtunnelHostPort<|||>3<|||>0
+Servers\Moretti\SSHtunnelUser<|||>1<|||>
+Servers\Moretti\SSHtunnelPassword<|||>1<|||>5
+Servers\Moretti\SSHtunnelTimeout<|||>3<|||>4
+Servers\Moretti\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Moretti\SSHtunnelPort<|||>3<|||>3307
+Servers\Moretti\SSL_Active<|||>3<|||>0
+Servers\Moretti\SSL_Key<|||>1<|||>
+Servers\Moretti\SSL_Cert<|||>1<|||>
+Servers\Moretti\SSL_CA<|||>1<|||>
+Servers\Moretti\SSL_Cipher<|||>1<|||>
+Servers\Moretti\RefusedCount<|||>3<|||>3
+Servers\Moretti\ServerVersionFull<|||>1<|||>5.5.51-38.1-log - Percona Server (GPL), Release rel30.2, Revision 39.1
+Servers\Moretti\ConnectCount<|||>3<|||>21
+Servers\Moretti\ServerVersion<|||>3<|||>50551
+Servers\Moretti\LastConnect<|||>1<|||>2018-10-19 19:46:42
+Servers\Moretti\lastUsedDB<|||>1<|||>dbcmmoretti
+Servers\Moretti\dbcmmoretti|CLIENTE\Sort<|||>1<|||>0_NOMBRECLIENTE|
+Servers\Moretti\dbcmmoretti|TIPODOCUMENTO\Sort<|||>1<|||>0_IDTIPODOCUMENTO|
+Servers\Moretti\QueryHistory\31<|||>1<|||>2018-09-25 15:08:41|dbcmmoretti|1719|SELECT * FROM TRANSACCIONCAB WHERE NUMEROTRANSACCION LIKE '%6435%'
+Servers\Moretti\QueryHistory\28<|||>1<|||>2018-09-25 15:09:39|dbcmmoretti|10422|SELECT * FROM TRANSACCIONCAB WHERE TIPOTRANSACCION='COMPRA'
+Servers\Moretti\QueryHistory\33<|||>1<|||>2018-09-25 15:15:57|dbcmmoretti|266|DELETE FROM TRANSACCIONCAB WHERE IDTRANSACCIONCAB = 754736
+Servers\Moretti\QueryHistory\32<|||>1<|||>2018-09-25 15:17:02|dbcmmoretti|406|DELETE FROM TRANSACCIONCAB WHERE IDTRANSACCIONCAB = 754673
+Servers\Moretti\QueryHistory\35<|||>1<|||>2018-09-25 15:18:12|dbcmmoretti|12672|SELECT * FROM TRANSACCIONCAB WHERE TIPOTRANSACCION='COMPRA' ORDER BY FECHAEMISION DESC
+Servers\Moretti\QueryHistory\34<|||>1<|||>2018-09-25 15:26:17|dbcmmoretti|1719|SELECT * FROM TRANSACCIONCAB WHERE TIPOTRANSACCION='COMPRA' AND ESTADO='ANULADA' ORDER BY FECHAEMISION DESC
+Servers\Moretti\QueryHistory\37<|||>1<|||>2018-09-25 15:27:37|dbcmmoretti|187|SELECT * FROM TRANSACCIONDET WHERE IDTRANSACCIONCAB=754644
+Servers\Moretti\QueryHistory\38<|||>1<|||>2018-09-25 15:27:53|dbcmmoretti|2844|SELECT * FROM TRANSACCIONCAB WHERE TIPOTRANSACCION='COMPRA' AND ESTADO='ANULADO' ORDER BY FECHAEMISION DESC
+Servers\Moretti\QueryHistory\36<|||>1<|||>2018-09-25 15:28:20|dbcmmoretti|188|DELETE FROM TRANSACCIONCAB WHERE IDTRANSACCIONCAB=754644
+Servers\Moretti\QueryHistory\39<|||>1<|||>2018-10-19 19:48:15|dbcmmoretti|1266|SELECT TIPOTRANSACCION, COUNT(*) FROM TRANSACCIONCAB <{{{><}}}>GROUP BY TIPOTRANSACCION
+Servers\Moretti\QueryHistory\2<|||>1<|||>2018-10-19 19:57:47|dbcmmoretti|3563|SELECT TIPOTRANSACCION,NOMBRETIPODOCUMENTO, COUNT(*) <{{{><}}}>FROM TRANSACCIONCAB<{{{><}}}>LEFT JOIN TIPODOCUMENTO ON TRANSACCIONCAB.IDTIPODOCUMENTO=TIPODOCUMENTO.IDTIPODOCUMENTO<{{{><}}}>GROUP BY TIPOTRANSACCION,NOMBRETIPODOCUMENTO
+Servers\SerYEducar\SessionCreated<|||>1<|||>2018-07-14 22:26:07
+Servers\SerYEducar\Host<|||>1<|||>dbseryeducar.db.11978601.hostedresource.com
+Servers\SerYEducar\WindowsAuth<|||>3<|||>0
+Servers\SerYEducar\User<|||>1<|||>dbseryeducar
+Servers\SerYEducar\Password<|||>1<|||>5E357C364467377A384
+Servers\SerYEducar\LoginPrompt<|||>3<|||>0
+Servers\SerYEducar\Port<|||>1<|||>3306
+Servers\SerYEducar\NetType<|||>3<|||>0
+Servers\SerYEducar\Compressed<|||>3<|||>0
+Servers\SerYEducar\LocalTimeZone<|||>3<|||>0
+Servers\SerYEducar\QueryTimeout<|||>3<|||>0
+Servers\SerYEducar\KeepAlive<|||>3<|||>0
+Servers\SerYEducar\FullTableStatus<|||>3<|||>1
+Servers\SerYEducar\Databases<|||>1<|||>
+Servers\SerYEducar\Comment<|||>1<|||>
+Servers\SerYEducar\StartupScriptFilename<|||>1<|||>
+Servers\SerYEducar\TreeBackground<|||>3<|||>536870911
+Servers\SerYEducar\SSHtunnelHost<|||>1<|||>
+Servers\SerYEducar\SSHtunnelHostPort<|||>3<|||>0
+Servers\SerYEducar\SSHtunnelUser<|||>1<|||>
+Servers\SerYEducar\SSHtunnelPassword<|||>1<|||>5
+Servers\SerYEducar\SSHtunnelTimeout<|||>3<|||>4
+Servers\SerYEducar\SSHtunnelPrivateKey<|||>1<|||>
+Servers\SerYEducar\SSHtunnelPort<|||>3<|||>3307
+Servers\SerYEducar\SSL_Active<|||>3<|||>0
+Servers\SerYEducar\SSL_Key<|||>1<|||>
+Servers\SerYEducar\SSL_Cert<|||>1<|||>
+Servers\SerYEducar\SSL_CA<|||>1<|||>
+Servers\SerYEducar\SSL_Cipher<|||>1<|||>
+Servers\SerYEducar\ServerVersionFull<|||>1<|||>5.5.51-38.1-log - Percona Server (GPL), Release rel30.2, Revision 39.1
+Servers\SerYEducar\ConnectCount<|||>3<|||>7
+Servers\SerYEducar\ServerVersion<|||>3<|||>50551
+Servers\SerYEducar\LastConnect<|||>1<|||>2018-09-10 13:39:39
+Servers\SerYEducar\lastUsedDB<|||>1<|||>dbseryeducar
+Servers\SerYEducar\dbseryeducar|ALUMNO\Sort<|||>1<|||>0_NOMBRE|
+Servers\SerYEducar\QueryHistory\1<|||>1<|||>2018-08-09 00:15:54|dbseryeducar|281|SELECT * FROM KOGNITIVA<{{{><}}}>LEFT JOIN ALUMNO ON KOGNITIVA.IDALUMNO=ALUMNO.IDALUMNO<{{{><}}}>WHERE <{{{><}}}>ALUMNO.IDCOLEGIONIVEL = 119 AND<{{{><}}}>ALUMNO.PRUEBARESUELTA_K = 'S' 
+Servers\SerYEducar\QueryHistory\2<|||>1<|||>2018-08-09 00:22:26|dbseryeducar|594|SELECT * FROM KOGNITIVA<{{{><}}}>LEFT JOIN ALUMNO ON KOGNITIVA.IDALUMNO=ALUMNO.IDALUMNO<{{{><}}}>LEFT JOIN COLEGIONIVEL ON ALUMNO.IDCOLEGIONIVEL=COLEGIONIVEL.IDCOLEGIONIVEL<{{{><}}}>WHERE <{{{><}}}>ALUMNO.IDCOLEGIONIVEL = 119 AND<{{{><}}}>ALUMNO.PRUEBARESUELTA_K = 'S' 
+Servers\SerYEducar\QueryHistory\3<|||>1<|||>2018-08-09 00:23:14|dbseryeducar|375|SELECT * FROM KOGNITIVA<{{{><}}}>LEFT JOIN ALUMNO ON KOGNITIVA.IDALUMNO=ALUMNO.IDALUMNO<{{{><}}}>LEFT JOIN COLEGIONIVEL ON ALUMNO.IDCOLEGIONIVEL=COLEGIONIVEL.IDCOLEGIONIVEL<{{{><}}}>LEFT JOIN NIVEL ON COLEGIONIVEL.IDNIVEL=NIVEL.IDNIVEL<{{{><}}}>WHERE <{{{><}}}>ALUMNO.IDCOLEGIONIVEL = 119 AND<{{{><}}}>ALUMNO.PRUEBARESUELTA_K = 'S' 
+Servers\SerYEducar\QueryHistory\4<|||>1<|||>2018-08-09 00:25:29|dbseryeducar|282|SELECT<{{{><}}}>NOMBRENIVEL,<{{{><}}}>GRUPO,<{{{><}}}>NROLISTA,<{{{><}}}>CONCAT(ALUMNO.NOMBRE,' ', ALUMNO.APELLIDOP) AS ALUMNO,<{{{><}}}>RESPUESTA1,<{{{><}}}>RESPUESTA2,<{{{><}}}>RESPUESTA3,<{{{><}}}>RESPUESTA4<{{{><}}}>FROM KOGNITIVA<{{{><}}}>LEFT JOIN ALUMNO ON KOGNITIVA.IDALUMNO=ALUMNO.IDALUMNO<{{{><}}}>LEFT JOIN COLEGIONIVEL ON ALUMNO.IDCOLEGIONIVEL=COLEGIONIVEL.IDCOLEGIONIVEL<{{{><}}}>LEFT JOIN NIVEL ON COLEGIONIVEL.IDNIVEL=NIVEL.IDNIVEL<{{{><}}}>WHERE <{{{><}}}>ALUMNO.IDCOLEGIONIVEL = 119 AND<{{{><}}}>ALUMNO.PRUEBARESUELTA_K = 'S' 
+Servers\SerYEducar\QueryHistory\5<|||>1<|||>2018-08-09 00:55:45|dbseryeducar|297|SELECT NOMBRENIVEL, GRUPO, NROLISTA, CONCAT(ALUMNO.NOMBRE,' ', ALUMNO.APELLIDOP) AS ALUMNO, RESPUESTA1, RESPUESTA2, RESPUESTA3, RESPUESTA4 FROM KOGNITIVA LEFT JOIN ALUMNO ON KOGNITIVA.IDALUMNO=ALUMNO.IDALUMNO LEFT JOIN COLEGIONIVEL ON ALUMNO.IDCOLEGIONIVEL=COLEGIONIVEL.IDCOLEGIONIVEL LEFT JOIN NIVEL ON COLEGIONIVEL.IDNIVEL=NIVEL.IDNIVEL <{{{><}}}>WHERE ALUMNO.IDCOLEGIONIVEL=119 AND ALUMNO.IDANIO=3 and ALUMNO.PRUEBARESUELTA_K = 'S' ORDER BY NROLISTA
+Servers\SerYEducar\QueryHistory\6<|||>1<|||>2018-08-28 17:43:50|dbseryeducar|156|SELECT * FROM ALUMNO WHERE NOMBRE LIKE '%BRON%'
+Servers\SerYEducar\QueryHistory\7<|||>1<|||>2018-08-28 17:43:58|dbseryeducar|187|SELECT * FROM ALUMNO WHERE NOMBRE LIKE '%CAMILA%'
+Servers\Triar\SessionCreated<|||>1<|||>2018-09-25 11:41:35
+Servers\Triar\Host<|||>1<|||>dbtriar.db.11978601.ee3.hostedresource.net
+Servers\Triar\WindowsAuth<|||>3<|||>0
+Servers\Triar\User<|||>1<|||>dbtriar
+Servers\Triar\Password<|||>1<|||>6239803A486B3B7E3C8
+Servers\Triar\LoginPrompt<|||>3<|||>0
+Servers\Triar\Port<|||>1<|||>3306
+Servers\Triar\NetType<|||>3<|||>0
+Servers\Triar\Compressed<|||>3<|||>0
+Servers\Triar\LocalTimeZone<|||>3<|||>0
+Servers\Triar\QueryTimeout<|||>3<|||>0
+Servers\Triar\KeepAlive<|||>3<|||>0
+Servers\Triar\FullTableStatus<|||>3<|||>1
+Servers\Triar\Databases<|||>1<|||>
+Servers\Triar\Comment<|||>1<|||>
+Servers\Triar\StartupScriptFilename<|||>1<|||>
+Servers\Triar\TreeBackground<|||>3<|||>536870911
+Servers\Triar\SSHtunnelHost<|||>1<|||>
+Servers\Triar\SSHtunnelHostPort<|||>3<|||>0
+Servers\Triar\SSHtunnelUser<|||>1<|||>
+Servers\Triar\SSHtunnelPassword<|||>1<|||>5
+Servers\Triar\SSHtunnelTimeout<|||>3<|||>4
+Servers\Triar\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Triar\SSHtunnelPort<|||>3<|||>3307
+Servers\Triar\SSL_Active<|||>3<|||>0
+Servers\Triar\SSL_Key<|||>1<|||>
+Servers\Triar\SSL_Cert<|||>1<|||>
+Servers\Triar\SSL_CA<|||>1<|||>
+Servers\Triar\SSL_Cipher<|||>1<|||>
+Servers\Triar\ServerVersionFull<|||>1<|||>5.5.51-38.1-log - Percona Server (GPL), Release rel30.2, Revision 39.1
+Servers\Triar\ConnectCount<|||>3<|||>14
+Servers\Triar\ServerVersion<|||>3<|||>50551
+Servers\Triar\LastConnect<|||>1<|||>2018-10-20 23:15:58
+Servers\Triar\lastUsedDB<|||>1<|||>dbtriar
+Servers\Triar\RefusedCount<|||>3<|||>3
+Servers\Triar\QueryHistory\1<|||>1<|||>2018-10-05 09:26:58|dbtriar|546|CREATE TABLE FOTOARTICULO<{{{><}}}>(<{{{><}}}>	IDFOTOARTICULO  int auto_increment  NOT NULL ,<{{{><}}}>	IDARTICULO  int  NOT NULL ,<{{{><}}}>	NOMBRE varchar(50) NOT NULL,<{{{><}}}>	TAMANO int NOT NULL,<{{{><}}}>	PRIMARY KEY (IDFOTOARTICULO)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE FOTOARTICULO<{{{><}}}>	ADD  FOREIGN KEY (IDARTICULO) REFERENCES ARTICULO(IDARTICULO)<{{{><}}}>		ON DELETE CASCADE<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\2<|||>1<|||>2018-10-13 15:58:59|dbtriar|891|CREATE TABLE KARDEX<{{{><}}}>(<{{{><}}}>	IDKARDEX  int  auto_increment  NOT NULL ,<{{{><}}}>	IDOPERACION  int  NOT NULL ,<{{{><}}}>	TIPOOPERACION varchar(20) NOT NULL,<{{{><}}}>	NUMEROPERACION varchar(15) NOT NULL,<{{{><}}}>	FECHA Date NOT NULL,<{{{><}}}>	ESTADO varchar(15) NOT NULL,<{{{><}}}>	IDARTICULO  int  NOT NULL ,<{{{><}}}>	ENTSAL  char(3)  NOT NULL ,<{{{><}}}>	ENTRADA  decimal(10,2)  NULL ,<{{{><}}}>	SALIDA  decimal(10,2)  NULL ,<{{{><}}}>	IDALMACEN  int NOT  NULL,<{{{><}}}>	PRIMARY KEY (IDKARDEX)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE KARDEX<{{{><}}}>	ADD  FOREIGN KEY (IDARTICULO) REFERENCES ARTICULO(IDARTICULO)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE KARDEX<{{{><}}}>	ADD  FOREIGN KEY (IDALMACEN) REFERENCES ALMACEN(IDALMACEN)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\3<|||>1<|||>2018-10-13 17:11:32|dbtriar|734|CREATE TABLE PARTEINGRESOCAB<{{{><}}}>(<{{{><}}}>	IDPARTEINGRESOCAB  int auto_increment NOT NULL,<{{{><}}}>	NUMEROPARTEINGRESO  varchar(10)  NOT NULL ,<{{{><}}}>	FECHAEMISION  date  NOT NULL ,<{{{><}}}>	GLOSA  varchar(250)  NULL ,<{{{><}}}>	IDALMACEN  int NOT NULL, <{{{><}}}>	ESTADO  varchar(15) NOT NULL,<{{{><}}}>	PRIMARY KEY (IDPARTEINGRESOCAB)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE PARTEINGRESOCAB<{{{><}}}>	ADD  FOREIGN KEY (IDALMACEN) REFERENCES ALMACEN(IDALMACEN)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\4<|||>1<|||>2018-10-13 17:18:49|dbtriar|970|CREATE TABLE PARTEINGRESODET<{{{><}}}>(<{{{><}}}>	IDPARTEINGRESODET  int auto_increment  NOT NULL ,<{{{><}}}>	IDPARTEINGRESOCAB  int  NOT NULL ,<{{{><}}}>	IDARTICULO  int  NOT NULL ,<{{{><}}}>	CANTIDAD  decimal(10,2)  NOT NULL ,<{{{><}}}>	PRIMARY KEY (IDPARTEINGRESODET)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE PARTEINGRESODET<{{{><}}}>	ADD  FOREIGN KEY (IDPARTEINGRESOCAB) REFERENCES PARTEINGRESOCAB(IDPARTEINGRESOCAB)<{{{><}}}>		ON DELETE CASCADE<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE PARTEINGRESODET<{{{><}}}>	ADD  FOREIGN KEY (IDARTICULO) REFERENCES ARTICULO(IDARTICULO)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\5<|||>1<|||>2018-10-15 19:27:56|dbtriar|844|CREATE TABLE KARDEX<{{{><}}}>(<{{{><}}}>	IDKARDEX  int  auto_increment  NOT NULL ,<{{{><}}}>	IDOPERACIONCAB  int  NOT NULL ,<{{{><}}}>	IDOPERACIONDET  int  NOT NULL ,<{{{><}}}>	TIPOOPERACION varchar(20) NOT NULL,<{{{><}}}>	NUMEROPERACION varchar(15) NOT NULL,<{{{><}}}>	FECHA Date NOT NULL,<{{{><}}}>	ESTADO varchar(15) NOT NULL,<{{{><}}}>	IDARTICULO  int  NOT NULL ,<{{{><}}}>	ENTSAL  char(3)  NOT NULL ,<{{{><}}}>	ENTRADA  decimal(10,2)  NULL ,<{{{><}}}>	SALIDA  decimal(10,2)  NULL ,<{{{><}}}>	IDALMACEN  int NOT  NULL,<{{{><}}}>	PRIMARY KEY (IDKARDEX)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE KARDEX<{{{><}}}>	ADD  FOREIGN KEY (IDARTICULO) REFERENCES ARTICULO(IDARTICULO)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE KARDEX<{{{><}}}>	ADD  FOREIGN KEY (IDALMACEN) REFERENCES ALMACEN(IDALMACEN)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\6<|||>1<|||>2018-10-16 19:29:11|dbtriar|1218|CREATE TABLE PARTESALIDACAB<{{{><}}}>(<{{{><}}}>	IDPARTESALIDACAB  int auto_increment NOT NULL,<{{{><}}}>	NUMEROPARTESALIDA  varchar(10)  NOT NULL ,<{{{><}}}>	FECHAEMISION  date  NOT NULL ,<{{{><}}}>	GLOSA  varchar(250) NOT NULL ,<{{{><}}}>	IDALMACEN  int NOT NULL, <{{{><}}}>	ESTADO  varchar(15) NOT NULL,<{{{><}}}>	PRIMARY KEY (IDPARTESALIDACAB)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE PARTESALIDACAB<{{{><}}}>	ADD  FOREIGN KEY (IDALMACEN) REFERENCES ALMACEN(IDALMACEN)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}><{{{><}}}>--<{{{><}}}>--<{{{><}}}>--<{{{><}}}>--<{{{><}}}><{{{><}}}>CREATE TABLE PARTESALIDADET<{{{><}}}>(<{{{><}}}>	IDPARTESALIDADET  int auto_increment  NOT NULL ,<{{{><}}}>	IDPARTESALIDACAB  int  NOT NULL ,<{{{><}}}>	IDARTICULO  int  NOT NULL ,<{{{><}}}>	CANTIDAD  decimal(10,2)  NOT NULL ,<{{{><}}}>	PRIMARY KEY (IDPARTESALIDADET)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE PARTESALIDADET<{{{><}}}>	ADD  FOREIGN KEY (IDPARTESALIDACAB) REFERENCES PARTESALIDACAB(IDPARTESALIDACAB)<{{{><}}}>		ON DELETE CASCADE<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE PARTESALIDADET<{{{><}}}>	ADD  FOREIGN KEY (IDARTICULO) REFERENCES ARTICULO(IDARTICULO)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\7<|||>1<|||>2018-10-16 23:51:05|dbtriar|281|SELECT SUM(KARDEX.ENTRADA), SUM(KARDEX.SALIDA) FROM KARDEX WHERE KARDEX.ESTADO='ACTIVO' AND KARDEX.FECHA < '2018-10-16' AND KARDEX.IDARTICULO=1 AND KARDEX.IDALMACEN=1
+Servers\Triar\QueryHistory\8<|||>1<|||>2018-10-17 16:14:11|dbtriar|733|CREATE TABLE KARDEX<{{{><}}}>(<{{{><}}}>	IDKARDEX  int  auto_increment  NOT NULL ,<{{{><}}}>	IDOPERACIONCAB  int  NOT NULL ,<{{{><}}}>	IDOPERACIONDET  int  NOT NULL ,<{{{><}}}>	TIPOOPERACION varchar(20) NOT NULL,<{{{><}}}>	NUMEROOPERACION varchar(15) NOT NULL,<{{{><}}}>	FECHA Date NOT NULL,<{{{><}}}>	ESTADO varchar(15) NOT NULL,<{{{><}}}>	IDARTICULO  int  NOT NULL ,<{{{><}}}>	ENTSAL  char(3)  NOT NULL ,<{{{><}}}>	ENTRADA  decimal(10,2)  NULL ,<{{{><}}}>	SALIDA  decimal(10,2)  NULL ,<{{{><}}}>	IDALMACEN  int NOT  NULL,<{{{><}}}>	IDALMACENDESTINO  int NULL,<{{{><}}}>	PRIMARY KEY (IDKARDEX)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE KARDEX<{{{><}}}>	ADD  FOREIGN KEY (IDARTICULO) REFERENCES ARTICULO(IDARTICULO)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE KARDEX<{{{><}}}>	ADD  FOREIGN KEY (IDALMACEN) REFERENCES ALMACEN(IDALMACEN)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}><{{{><}}}>--<{{{><}}}>--<{{{><}}}>--<{{{><}}}>--<{{{><}}}>
+Servers\Triar\QueryHistory\9<|||>1<|||>2018-10-17 17:35:19|dbtriar|813|CREATE TABLE TRANSFERENCIACAB<{{{><}}}>(<{{{><}}}>	IDTRANSFERENCIACAB  int auto_increment NOT NULL,<{{{><}}}>	NUMEROTRANSFERENCIA  varchar(10)  NOT NULL ,<{{{><}}}>	FECHAEMISION  date  NOT NULL ,<{{{><}}}>	GLOSA  varchar(250) NOT NULL ,<{{{><}}}>	IDALMACENORIGEN  int NOT NULL, <{{{><}}}>	IDALMACENDESTINO  int NOT NULL, <{{{><}}}>	ESTADO  varchar(15) NOT NULL,<{{{><}}}>	PRIMARY KEY (IDTRANSFERENCIACAB)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE TRANSFERENCIACAB<{{{><}}}>	ADD  FOREIGN KEY (IDALMACENORIGEN) REFERENCES ALMACEN(IDALMACEN)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE TRANSFERENCIACAB<{{{><}}}>	ADD  FOREIGN KEY (IDALMACENDESTINO) REFERENCES ALMACEN(IDALMACEN)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\10<|||>1<|||>2018-10-17 17:35:54|dbtriar|563|CREATE TABLE TRANSFERENCIADET<{{{><}}}>(<{{{><}}}>	IDTRANSFERENCIADET  int auto_increment  NOT NULL ,<{{{><}}}>	IDTRANSFERENCIACAB  int  NOT NULL ,<{{{><}}}>	IDARTICULO  int  NOT NULL ,<{{{><}}}>	CANTIDAD  decimal(10,2)  NOT NULL ,<{{{><}}}>	PRIMARY KEY (IDTRANSFERENCIADET)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>ALTER TABLE TRANSFERENCIADET<{{{><}}}>	ADD  FOREIGN KEY (IDTRANSFERENCIACAB) REFERENCES TRANSFERENCIACAB(IDTRANSFERENCIACAB)<{{{><}}}>		ON DELETE CASCADE<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>ALTER TABLE TRANSFERENCIADET<{{{><}}}>	ADD  FOREIGN KEY (IDARTICULO) REFERENCES ARTICULO(IDARTICULO)<{{{><}}}>		ON DELETE NO ACTION<{{{><}}}>		ON UPDATE NO ACTION<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\11<|||>1<|||>2018-10-19 00:00:57|dbtriar|783|CREATE TABLE PROVEEDOR<{{{><}}}>(<{{{><}}}>	IDPROVEEDOR  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREPROVEEDOR  varchar(50)  NOT NULL ,<{{{><}}}>	TIPODOCUMENTOIDENTIDAD  char(1)  NOT NULL ,<{{{><}}}>	NUMERODOCUMENTO  varchar(15)  NOT NULL ,<{{{><}}}>	DIRECCION  varchar(200)  NOT NULL,<{{{><}}}>	TELEFONO1  varchar(15)  NULL ,<{{{><}}}>	TELEFONO2  varchar(15)  NULL ,<{{{><}}}>	CELULAR  varchar(15)  NULL ,<{{{><}}}>	FAX  varchar(15)  NULL ,<{{{><}}}>	EMAIL1  varchar(50)  NULL ,<{{{><}}}>	EMAIL2  varchar(50)  NULL ,<{{{><}}}>	PAGINAWEB  varchar(100)  NULL ,<{{{><}}}>	PRIMARY KEY (IDPROVEEDOR)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBREPROVEEDOR ON PROVEEDOR<{{{><}}}>(<{{{><}}}>	NOMBREPROVEEDOR  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_DOCUMENTOPROVEEDOR ON PROVEEDOR<{{{><}}}>(<{{{><}}}>	TIPODOCUMENTOIDENTIDAD  ASC,<{{{><}}}>	NUMERODOCUMENTO  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\12<|||>1<|||>2018-10-20 22:37:47|dbtriar|843|CREATE TABLE PROVEEDOR<{{{><}}}>(<{{{><}}}>	IDPROVEEDOR  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREPROVEEDOR  varchar(50)  NOT NULL ,<{{{><}}}>	TIPODOCUMENTOIDENTIDAD  char(1)  NOT NULL ,<{{{><}}}>	NUMERODOCUMENTOIDENTIDAD  varchar(15)  NOT NULL ,<{{{><}}}>	DIRECCION  varchar(200)  NOT NULL,<{{{><}}}>	TELEFONO1  varchar(15)  NULL ,<{{{><}}}>	TELEFONO2  varchar(15)  NULL ,<{{{><}}}>	CELULAR  varchar(15)  NULL ,<{{{><}}}>	FAX  varchar(15)  NULL ,<{{{><}}}>	EMAIL1  varchar(50)  NULL ,<{{{><}}}>	EMAIL2  varchar(50)  NULL ,<{{{><}}}>	PAGINAWEB  varchar(100)  NULL ,<{{{><}}}>	PRIMARY KEY (IDPROVEEDOR)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBREPROVEEDOR ON PROVEEDOR<{{{><}}}>(<{{{><}}}>	NOMBREPROVEEDOR  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_DOCUMENTOPROVEEDOR ON PROVEEDOR<{{{><}}}>(<{{{><}}}>	TIPODOCUMENTOIDENTIDAD  ASC,<{{{><}}}>	NUMERODOCUMENTOIDENTIDAD  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\13<|||>1<|||>2018-10-20 22:41:30|dbtriar|860|CREATE TABLE CLIENTE<{{{><}}}>(<{{{><}}}>	IDCLIENTE  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBRECLIENTE  varchar(50)  NOT NULL ,<{{{><}}}>	NOMBRECOMERCIAL varchar(50)  NULL ,<{{{><}}}>	TIPODOCUMENTOIDENTIDAD  char(1)  NOT NULL ,<{{{><}}}>	NUMERODOCUMENTOIDENTIDAD  varchar(15)  NOT NULL ,<{{{><}}}>	DIRECCION  varchar(200)  NOT NULL,<{{{><}}}>	TELEFONO1  varchar(15)  NULL ,<{{{><}}}>	TELEFONO2  varchar(15)  NULL ,<{{{><}}}>	CELULAR  varchar(15)  NULL ,<{{{><}}}>	FAX  varchar(15)  NULL ,<{{{><}}}>	EMAIL1  varchar(50)  NULL ,<{{{><}}}>	EMAIL2  varchar(50)  NULL ,<{{{><}}}>	PAGINAWEB  varchar(100)  NULL ,<{{{><}}}>	CREDITO  char(1)  NOT NULL ,<{{{><}}}>	LIMITECREDITO  decimal(10,2)  NOT NULL ,<{{{><}}}>	PRIMARY KEY (IDCLIENTE)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBRECLIENTE ON CLIENTE<{{{><}}}>(<{{{><}}}>	NOMBRECLIENTE  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_DOCUMENTOCLIENTE ON CLIENTE<{{{><}}}>(<{{{><}}}>	TIPODOCUMENTOIDENTIDAD  ASC,<{{{><}}}>	NUMERODOCUMENTOIDENTIDAD  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\14<|||>1<|||>2018-10-20 22:47:10|dbtriar|313|INSERT INTO CLIENTE (NOMBRECLIENTE,TIPODOCUMENTOIDENTIDAD,NUMERODOCUMENTOIDENTIDAD,DIRECCION,CREDITO,LIMITECREDITO) VALUES ('CLIENTES VARIOS','-','','SN','N',0);<{{{><}}}>
+Servers\Triar\QueryHistory\15<|||>1<|||>2018-10-20 23:06:03|dbtriar|765|CREATE TABLE TIPODOCUMENTOIDENTIDAD<{{{><}}}>(<{{{><}}}>	IDTIPODOCUMENTOIDENTIDAD  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBRETIPODOCUMENTOIDENTIDAD varchar(50)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDTIPODOCUMENTOIDENTIDAD)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBRETIPODOCUMENTOIDENTIDAD ON TIPODOCUMENTOIDENTIDAD<{{{><}}}>(<{{{><}}}>	NOMBRETIPODOCUMENTOIDENTIDAD  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\16<|||>1<|||>2018-10-20 23:16:37|dbtriar|688|CREATE TABLE TIPODOCUMENTOIDENTIDAD<{{{><}}}>(<{{{><}}}>	IDTIPODOCUMENTOIDENTIDAD  int auto_increment  NOT NULL ,<{{{><}}}>	CODIGOTIPODOCUMENTOIDENTIDAD char(1)  NOT NULL,<{{{><}}}>	NOMBRETIPODOCUMENTOIDENTIDAD varchar(50)  NOT NULL,<{{{><}}}>	PRIMARY KEY (IDTIPODOCUMENTOIDENTIDAD)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_CODIGOTIPODOCUMENTOIDENTIDAD ON TIPODOCUMENTOIDENTIDAD<{{{><}}}>(<{{{><}}}>	CODIGOTIPODOCUMENTOIDENTIDAD  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBRETIPODOCUMENTOIDENTIDAD ON TIPODOCUMENTOIDENTIDAD<{{{><}}}>(<{{{><}}}>	NOMBRETIPODOCUMENTOIDENTIDAD  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>
+Servers\Triar\QueryHistory\17<|||>1<|||>2018-10-20 23:18:38|dbtriar|735|INSERT INTO TIPODOCUMENTOIDENTIDAD (CODIGOTIPODOCUMENTOIDENTIDAD,NOMBRETIPODOCUMENTOIDENTIDAD) VALUES ('-','NE');<{{{><}}}>INSERT INTO TIPODOCUMENTOIDENTIDAD (CODIGOTIPODOCUMENTOIDENTIDAD,NOMBRETIPODOCUMENTOIDENTIDAD) VALUES ('1','DNI');<{{{><}}}>INSERT INTO TIPODOCUMENTOIDENTIDAD (CODIGOTIPODOCUMENTOIDENTIDAD,NOMBRETIPODOCUMENTOIDENTIDAD) VALUES ('6','RUC');<{{{><}}}>
+Servers\Triar\QueryHistory\18<|||>1<|||>2018-10-20 23:21:48|dbtriar|766|CREATE TABLE PROVEEDOR<{{{><}}}>(<{{{><}}}>	IDPROVEEDOR  int auto_increment  NOT NULL ,<{{{><}}}>	NOMBREPROVEEDOR  varchar(50)  NOT NULL ,<{{{><}}}>	IDTIPODOCUMENTOIDENTIDAD  int  NOT NULL ,<{{{><}}}>	NUMERODOCUMENTOIDENTIDAD  varchar(15)  NOT NULL ,<{{{><}}}>	DIRECCION  varchar(200)  NOT NULL,<{{{><}}}>	TELEFONO1  varchar(15)  NULL ,<{{{><}}}>	TELEFONO2  varchar(15)  NULL ,<{{{><}}}>	CELULAR  varchar(15)  NULL ,<{{{><}}}>	FAX  varchar(15)  NULL ,<{{{><}}}>	EMAIL1  varchar(50)  NULL ,<{{{><}}}>	EMAIL2  varchar(50)  NULL ,<{{{><}}}>	PAGINAWEB  varchar(100)  NULL ,<{{{><}}}>	PRIMARY KEY (IDPROVEEDOR)<{{{><}}}>)ENGINE=InnoDB<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_NOMBREPROVEEDOR ON PROVEEDOR<{{{><}}}>(<{{{><}}}>	NOMBREPROVEEDOR  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>CREATE UNIQUE INDEX UNQ_DOCUMENTOPROVEEDOR ON PROVEEDOR<{{{><}}}>(<{{{><}}}>	IDTIPODOCUMENTOIDENTIDAD  ASC,<{{{><}}}>	NUMERODOCUMENTOIDENTIDAD  ASC<{{{><}}}>)<{{{><}}}>;<{{{><}}}>
